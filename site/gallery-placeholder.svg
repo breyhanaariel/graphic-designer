@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Original artwork placeholder</title>
+  <desc id="desc">Pastel placeholder graphic for artwork that will be replaced with Brianna Dickenson's original design work.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff0f6"/>
+      <stop offset="0.5" stop-color="#fde7ef"/>
+      <stop offset="1" stop-color="#fff4df"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" rx="72" fill="url(#bg)"/>
+  <circle cx="170" cy="185" r="22" fill="#efb08f" opacity=".7"/>
+  <circle cx="1040" cy="1020" r="30" fill="#dba7be" opacity=".6"/>
+  <path d="M980 160c18 0 33 15 33 33 0-18 15-33 33-33-18 0-33-15-33-33 0 18-15 33-33 33Z" fill="#b44972" opacity=".55"/>
+  <path d="M210 980c16 0 29 13 29 29 0-16 13-29 29-29-16 0-29-13-29-29 0 16-13 29-29 29Z" fill="#77445f" opacity=".45"/>
+  <rect x="174" y="220" width="852" height="760" rx="46" fill="#ffffff" opacity=".83" stroke="#ead7e1" stroke-width="4"/>
+  <text x="600" y="530" text-anchor="middle" fill="#77445f" font-family="Georgia, serif" font-size="72" font-weight="700">Design Gallery</text>
+  <text x="600" y="625" text-anchor="middle" fill="#9b6f83" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="4">ORIGINAL ARTWORK PLACEHOLDER</text>
+  <text x="600" y="710" text-anchor="middle" fill="#776975" font-family="Arial, sans-serif" font-size="28">Replace with Brianna's final hand-created work</text>
+  <text x="600" y="790" text-anchor="middle" fill="#b44972" font-family="Arial, sans-serif" font-size="48">🎀 ✨ 🎨</text>
+</svg>
