@@ -5,7 +5,7 @@
 I create expressive, cohesive visual systems across **brand identity, packaging, campaigns, social, print, presentations, and digital marketing**—balancing personality with practical production needs.
 
 💌 **Available For Freelance**  
-🕓 **Open to Remote Contract Opportunities**
+💻 **Seeking Full-Time Remote Position**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b)
 [![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20a%20Graphic%20Design%20Project)
@@ -171,8 +171,8 @@ My portfolio is intentionally separated by specialty so each discipline can tell
 ### 💌 Available For Freelance
 I am available for **short-term graphic design projects** across branding, campaigns, social, marketing collateral, presentations, print, packaging, and basic motion design.
 
-### 🕓 Open to Remote Contract Opportunities
-I am also open to **remote contract creative engagements** where a team needs focused visual-design support for a defined campaign, launch, brand initiative, or production period.
+### 💻 Seeking Full-Time Remote Position
+I am seeking a **full-time remote position** as a **Graphic Designer, Brand Designer, Marketing Designer, or Visual Designer**, where I can contribute across brand systems, campaigns, marketing communications, digital and print design, and basic motion.
 
 If you are looking for a designer who can combine expressive visual personality with organized systems and practical production thinking, I would love to connect.
 
