@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600">
+<rect width="1600" height="600" fill="#F4F6FF"/>
+<g transform="translate(150 178)">
+<path d="M0 35C80-35 165-35 245 35S410 105 490 35" fill="none" stroke="#6657FF" stroke-width="46" stroke-linecap="round"/>
+<path d="M0 145c80-70 165-70 245 0s165 70 245 0" fill="none" stroke="#9BA7FF" stroke-width="46" stroke-linecap="round"/>
+</g>
+<text x="720" y="318" font-family="Arial,sans-serif" font-size="150" font-weight="700" fill="#14213D">RibbonHQ</text>
+<text x="727" y="382" font-family="Arial,sans-serif" font-size="28" letter-spacing="7" fill="#596680">CONNECTED CREATIVE WORK</text>
+<text x="80" y="550" font-family="Arial,sans-serif" font-size="18" fill="#7B84A1">CONCEPT SCAFFOLD — replace with final identity work</text>
+</svg>

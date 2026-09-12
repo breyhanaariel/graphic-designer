@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<rect width="1600" height="1000" fill="#14213D"/>
+<circle cx="1250" cy="110" r="360" fill="#6657FF" opacity=".25"/>
+<path d="M-120 720C220 350 500 350 790 650s520 310 900-70" fill="none" stroke="#8C80FF" stroke-width="120" stroke-linecap="round"/>
+<path d="M-80 820C260 450 540 450 830 750s520 310 900-70" fill="none" stroke="#C5CBFF" stroke-width="36" stroke-linecap="round" opacity=".72"/>
+<text x="110" y="190" font-family="Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="#C5CBFF">RIBBONHQ / FLOWLINE</text>
+<text x="110" y="330" font-family="Arial,sans-serif" font-size="105" font-weight="700" fill="#F4F6FF">Keep every</text>
+<text x="110" y="442" font-family="Arial,sans-serif" font-size="105" font-weight="700" fill="#F4F6FF">idea moving.</text>
+<text x="116" y="530" font-family="Arial,sans-serif" font-size="31" fill="#C9D1E8">Briefs, feedback, approvals, and handoff — connected in one flow.</text>
+<rect x="116" y="590" width="250" height="68" rx="15" fill="#F4F6FF"/>
+<text x="241" y="634" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#14213D">EXPLORE FLOWLINE</text>
+<text x="80" y="956" font-family="Arial,sans-serif" font-size="18" fill="#AEB7D0">KEY VISUAL SCAFFOLD — replace with final art direction and product storytelling</text>
+</svg>

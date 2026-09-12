@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#14213D"/>
+<path id="path" d="M90 540C260 260 430 260 540 540s280 280 450 0" fill="none" stroke="#C5CBFF" stroke-width="24" stroke-linecap="round" stroke-dasharray="1450" stroke-dashoffset="1450">
+<animate attributeName="stroke-dashoffset" values="1450;0;0;1450" keyTimes="0;.35;.7;1" dur="4s" repeatCount="indefinite"/>
+</path>
+<circle r="28" fill="#8C80FF">
+<animateMotion dur="4s" repeatCount="indefinite" path="M90 540C260 260 430 260 540 540s280 280 450 0"/>
+</circle>
+<text x="540" y="760" text-anchor="middle" font-family="Arial,sans-serif" font-size="72" font-weight="700" fill="#F4F6FF">Keep every idea moving.</text>
+<text x="540" y="820" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="4" fill="#C5CBFF">MOTION SCAFFOLD • REBUILD IN AFTER EFFECTS</text>
+</svg>

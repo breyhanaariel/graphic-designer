@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+<rect width="900" height="900" rx="70" fill="#14213D"/>
+<path d="M135 300C270 145 415 145 550 300s280 155 215 0" fill="none" stroke="#8C80FF" stroke-width="76" stroke-linecap="round"/>
+<path d="M135 600c135-155 280-155 415 0s280 155 215 0" fill="none" stroke="#C5CBFF" stroke-width="76" stroke-linecap="round"/>
+<circle cx="135" cy="300" r="18" fill="#F4F6FF"/>
+<circle cx="765" cy="600" r="18" fill="#F4F6FF"/>
+<text x="450" y="830" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="3" fill="#F4F6FF">CONNECTION DEVICE SCAFFOLD</text>
+</svg>
