@@ -4,11 +4,24 @@
 
 I create expressive, cohesive visual systems across **brand identity, packaging, campaigns, social, print, presentations, and digital marketing**—balancing personality with practical production needs.
 
-🕓 **Open to full-time remote graphic design roles**  
-💌 **Available for short-term freelance projects**
+💌 **Available For Freelance**  
+🕓 **Open to Remote Contract Opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b)
-[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
+[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20a%20Graphic%20Design%20Project)
+
+---
+
+## 💌 Freelance Services
+
+Available for focused short-term creative projects including:
+
+- Brand identity and visual identity systems
+- Campaign and launch creative
+- Social media and paid advertising assets
+- Presentations, reports, one-sheets, and marketing collateral
+- Packaging, print, posters, and event materials
+- Animated typography, logo motion, and short-form campaign motion
 
 ---
 
@@ -142,20 +155,25 @@ graphic-designer/
 
 ---
 
-## 🌸 More of My Work
+## 🌸 Explore My Work
 
-My portfolio is intentionally split by specialty so each repository can go deeper instead of becoming one giant mixed gallery.
+My portfolio is intentionally separated by specialty so each discipline can tell a focused story while still showing how my skills connect.
 
-- 🌷 [UI/UX Designer](https://github.com/breyhanaariel/ui-ux-designer) — product design, research, design systems, prototyping
-- 💻 [Front-End Developer](https://github.com/breyhanaariel/front-end-developer) — React, Next.js, TypeScript, accessible interfaces
-- 🎨 [Web Designer](https://github.com/breyhanaariel/web-designer) — visual web design and responsive site concepts
+- 🎀 [UI/UX Designer](https://github.com/breyhanaariel/ui-ux-designer) — product design, research, flows, design systems, prototyping, and complex interaction design
+- 💻 [Front-End Developer](https://github.com/breyhanaariel/front-end-developer) — React, Next.js, TypeScript, APIs, testing, and accessible implementation
+- 🌐 [Web Designer](https://github.com/breyhanaariel/web-designer) — responsive websites and brand-led digital experiences for short-term client projects
+- 🎨 **Graphic Designer** — brand identity, campaign design, marketing assets, print, presentations, and motion
 
 ---
 
 ## 💌 Work With Me
 
-I am currently seeking a **full-time remote graphic design, brand design, visual design, or marketing design position** and am also available for **short-term freelance graphic design projects**.
+### 💌 Available For Freelance
+I am available for **short-term graphic design projects** across branding, campaigns, social, marketing collateral, presentations, print, packaging, and basic motion design.
+
+### 🕓 Open to Remote Contract Opportunities
+I am also open to **remote contract creative engagements** where a team needs focused visual-design support for a defined campaign, launch, brand initiative, or production period.
 
 If you are looking for a designer who can combine expressive visual personality with organized systems and practical production thinking, I would love to connect.
 
-[LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email Me](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
+[LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email Me](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20a%20Graphic%20Design%20Project)
