@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#111111"/>
+<circle cx="760" cy="530" r="250" fill="#FF3D57">
+<animate attributeName="r" values="180;280;220;250" dur="2s" repeatCount="indefinite"/>
+</circle>
+<text x="-60" y="850" font-family="Arial Narrow,Arial,sans-serif" font-size="240" font-weight="900" fill="#D7FF46">
+CHERRY
+<animate attributeName="x" values="-500;-60;-60;120" keyTimes="0;.25;.75;1" dur="3s" repeatCount="indefinite"/>
+</text>
+<text x="85" y="1110" font-family="Arial Narrow,Arial,sans-serif" font-size="255" font-weight="900" fill="#F6F0E8">
+STATIC
+<animate attributeName="x" values="850;85;85;-120" keyTimes="0;.28;.78;1" dur="3s" repeatCount="indefinite"/>
+</text>
+<rect x="85" y="1220" width="910" height="12" fill="#FF3D57"/>
+<text x="85" y="1320" font-family="Arial,sans-serif" font-size="38" font-weight="900" fill="#FF3D57">MAKE SOME NOISE. LEAVE A MARK.</text>
+<text x="85" y="1780" font-family="Arial,sans-serif" font-size="18" letter-spacing="3" fill="#9D9D9D">KINETIC TYPE SCAFFOLD • REBUILD + ART DIRECT IN AFTER EFFECTS</text>
+</svg>

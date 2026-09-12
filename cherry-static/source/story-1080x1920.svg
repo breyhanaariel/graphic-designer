@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#111111"/>
+<rect width="1080" height="180" fill="#FF3D57"/>
+<text x="62" y="118" font-family="Arial,sans-serif" font-size="38" font-weight="900" fill="#111111">OCT 16–17 • AFTER DARK</text>
+<circle cx="720" cy="565" r="300" fill="#FF3D57"/>
+<circle cx="900" cy="735" r="300" fill="#FF3D57"/>
+<text x="-30" y="650" font-family="Arial Narrow,Arial,sans-serif" font-size="230" font-weight="900" fill="#D7FF46" transform="rotate(-8 0 0)">CHERRY</text>
+<text x="98" y="980" font-family="Arial Narrow,Arial,sans-serif" font-size="245" font-weight="900" fill="#F6F0E8">STATIC</text>
+<text x="98" y="1120" font-family="Arial,sans-serif" font-size="45" font-weight="800" fill="#FF3D57">MAKE SOME NOISE.</text>
+<text x="98" y="1180" font-family="Arial,sans-serif" font-size="45" font-weight="800" fill="#FF3D57">LEAVE A MARK.</text>
+<rect x="98" y="1320" width="884" height="360" fill="#D7FF46"/>
+<text x="142" y="1410" font-family="Arial,sans-serif" font-size="28" font-weight="900" fill="#111111">VERTICAL AD CONTENT ZONE</text>
+<text x="142" y="1480" font-family="Arial,sans-serif" font-size="26" fill="#111111">artist / feature / ticket message</text>
+<text x="142" y="1540" font-family="Arial,sans-serif" font-size="26" fill="#111111">CTA + event details</text>
+<text x="98" y="1815" font-family="Arial,sans-serif" font-size="18" fill="#9D9D9D">9:16 STORY / REEL SCAFFOLD • DESIGN FINAL MOTION NATIVELY FOR VERTICAL</text>
+</svg>

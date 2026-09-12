@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="500" viewBox="0 0 1400 500">
+<rect width="1400" height="500" rx="30" fill="#D7FF46"/>
+<rect x="28" y="28" width="1344" height="444" rx="22" fill="none" stroke="#111111" stroke-width="5"/>
+<rect x="1020" y="28" width="5" height="444" fill="#111111"/>
+<text x="72" y="105" font-family="Arial,sans-serif" font-size="26" font-weight="900" fill="#111111">CHERRY STATIC • TWO NIGHT PASS</text>
+<text x="72" y="265" font-family="Arial Narrow,Arial,sans-serif" font-size="112" font-weight="900" fill="#FF3D57">ALL ACCESS</text>
+<text x="72" y="350" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#111111">OCT 16–17 • WAREHOUSE DISTRICT • 7PM–LATE</text>
+<text x="1080" y="150" font-family="Arial Narrow,Arial,sans-serif" font-size="62" font-weight="900" fill="#111111" transform="rotate(90 1080 150)">STATIC</text>
+<text x="72" y="438" font-family="Arial,sans-serif" font-size="17" fill="#111111">COLLATERAL SCAFFOLD • FICTIONAL EVENT • REPLACE WITH FINAL SYSTEM</text>
+</svg>
