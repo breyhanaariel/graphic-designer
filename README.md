@@ -16,11 +16,15 @@ I create expressive, cohesive visual systems across **brand identity, packaging,
 
 Available for focused short-term creative projects including:
 
+- Logo design and redesign
+- Mascot and character design
 - Brand identity and visual identity systems
+- Custom illustration and sticker artwork
+- Print design and marketing collateral
 - Campaign and launch creative
 - Social media and paid advertising assets
 - Presentations, reports, one-sheets, and marketing collateral
-- Packaging, print, posters, and event materials
+- Packaging, posters, and event materials
 - Animated typography, logo motion, and short-form campaign motion
 
 ---
@@ -92,11 +96,25 @@ A fictional independent music and arts festival designed as a high-energy campai
 
 ---
 
+## 🎨 Design Gallery
+
+The **Design Gallery** gives clients a fast way to browse focused, standalone work alongside the larger case studies. It is intentionally simple: choose a category from one dropdown, browse the image grid, and select any piece to view its client or concept-client information, description, tools, deliverables, and service inquiry option.
+
+**Gallery categories**  
+✨ Logo Design · 🐰 Mascot Design · 🎀 Brand Identity · 🖍️ Illustration · 🖨️ Print Design
+
+The gallery begins with **10 pieces per category** and is built to expand as I add more original work. Current gallery images are clearly labeled placeholders and will be replaced with my own manually created artwork and designs.
+
+### 🌷 [Browse the Design Gallery →](https://breyhanaariel.github.io/graphic-designer/#gallery)
+
+---
+
 ## 🧠 Core Capabilities
 
 | Area | Skills |
 |---|---|
 | 🎀 **Brand & Identity** | Logos · identity systems · art direction · brand guidelines · visual systems |
+| 🐰 **Mascot & Illustration** | Branded characters · mascot concepts · sticker artwork · custom illustration · merchandise graphics |
 | 📦 **Packaging & Print** | Packaging concepts · editorial/layout · collateral · prepress-minded production |
 | 📣 **Marketing & Campaigns** | Campaign concepts · paid media · social · email · launch creative · OOH |
 | 📊 **Corporate Communications** | Presentations · reports · one-sheets · infographics · reusable templates |
@@ -147,10 +165,13 @@ graphic-designer/
 │   ├── README.md
 │   ├── source/
 │   └── motion/
-└── cherry-static/
-    ├── README.md
-    ├── source/
-    └── motion/
+├── cherry-static/
+│   ├── README.md
+│   ├── source/
+│   └── motion/
+└── site/
+    ├── index.html
+    └── gallery-placeholder.svg
 ```
 
 ---
@@ -162,14 +183,14 @@ My portfolio is intentionally separated by specialty so each discipline can tell
 - 🎀 [UI/UX Designer](https://github.com/breyhanaariel/ui-ux-designer) — product design, research, flows, design systems, prototyping, and complex interaction design
 - 💻 [Front-End Developer](https://github.com/breyhanaariel/front-end-developer) — React, Next.js, TypeScript, APIs, testing, and accessible implementation
 - 🌐 [Web Designer](https://github.com/breyhanaariel/web-designer) — responsive websites and brand-led digital experiences for short-term client projects
-- 🎨 **Graphic Designer** — brand identity, campaign design, marketing assets, print, presentations, and motion
+- 🎨 **Graphic Designer** — brand identity, campaign design, standalone gallery work, marketing assets, print, presentations, and motion
 
 ---
 
 ## 💌 Work With Me
 
 ### 💌 Available For Freelance
-I am available for **short-term graphic design projects** across branding, campaigns, social, marketing collateral, presentations, print, packaging, and basic motion design.
+I am available for **short-term graphic design projects** across logos and redesigns, mascots, brand identity, illustration, campaigns, social, marketing collateral, presentations, print, packaging, and basic motion design.
 
 ### 💻 Seeking Full-Time Remote Position
 I am seeking a **full-time remote position** as a **Graphic Designer, Brand Designer, Marketing Designer, or Visual Designer**, where I can contribute across brand systems, campaigns, marketing communications, digital and print design, and basic motion.
