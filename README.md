@@ -21,6 +21,8 @@ I create expressive, cohesive visual systems across **brand identity, packaging,
 
 A tactile botanical body-care concept built to demonstrate how a distinctive consumer identity can scale from logo and packaging through social launch assets, retail touchpoints, and motion.
 
+<img src="./peach-and-petal/source/social-launch-1080x1350.svg" alt="Peach & Petal concept scaffold" width="620" />
+
 **What it will demonstrate**
 - Identity system and art direction
 - Packaging and print-production thinking
@@ -40,6 +42,8 @@ A tactile botanical body-care concept built to demonstrate how a distinctive con
 
 A collaborative-workspace concept focused on the practical visual communication needs of an in-house design team: campaign systems, decks, reports, social graphics, reusable templates, and launch materials.
 
+<img src="./ribbonhq/source/launch-key-visual.svg" alt="RibbonHQ launch concept scaffold" width="720" />
+
 **What it will demonstrate**
 - Corporate brand extension
 - Product-launch campaign system
@@ -58,6 +62,8 @@ A collaborative-workspace concept focused on the practical visual communication 
 **Campaign Design · Advertising · Social · Art Direction · Motion**
 
 A fictional independent music and arts festival designed as a high-energy campaign system spanning posters, outdoor, social, paid media, merchandise, and kinetic typography.
+
+<img src="./cherry-static/source/poster-18x24.svg" alt="Cherry Static poster concept scaffold" width="520" />
 
 **What it will demonstrate**
 - Campaign concept and key visual
@@ -96,6 +102,8 @@ Adobe Photoshop · Adobe Illustrator · Adobe InDesign · Adobe After Effects
 Figma · Canva
 
 Each case study includes a **tool map** showing where these applications fit naturally into the workflow rather than listing software without evidence.
+
+📋 [Portfolio Production Matrix](./docs/portfolio-production-matrix.md) · 🎨 [Final-Art Replacement Checklist](./docs/asset-replacement-checklist.md)
 
 ---
 
