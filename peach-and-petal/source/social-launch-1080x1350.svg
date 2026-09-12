@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#FFF6EE"/>
+<circle cx="870" cy="215" r="240" fill="#F39A7C"/>
+<path d="M872 32c130 62 191 156 183 282-117 1-204-53-261-160 8-51 34-92 78-122z" fill="#7B8D67"/>
+<rect x="96" y="320" width="380" height="760" rx="46" fill="#F7C9B8" transform="rotate(-6 286 700)"/>
+<rect x="132" y="350" width="308" height="650" rx="30" fill="#FFF6EE" opacity=".65" transform="rotate(-6 286 700)"/>
+<text x="560" y="610" font-family="Georgia,serif" font-size="112" fill="#4B2E3D">soft skin,</text>
+<text x="560" y="725" font-family="Georgia,serif" font-size="112" fill="#4B2E3D">sunny mood.</text>
+<text x="566" y="802" font-family="Arial,sans-serif" font-size="26" letter-spacing="5" fill="#7B8D67">PEACH &amp; PETAL</text>
+<text x="566" y="856" font-family="Arial,sans-serif" font-size="26" fill="#4B2E3D">botanical body care • concept launch</text>
+<rect x="566" y="915" width="260" height="66" rx="33" fill="#4B2E3D"/>
+<text x="696" y="958" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#FFF6EE">COMING SOON</text>
+<text x="50" y="1310" font-family="Arial,sans-serif" font-size="18" fill="#A16B62">4:5 LAYOUT SCAFFOLD — replace product, typography, illustration, and final art direction</text>
+</svg>

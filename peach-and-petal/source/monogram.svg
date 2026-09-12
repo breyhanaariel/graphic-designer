@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+<rect width="800" height="800" rx="80" fill="#F39A7C"/>
+<circle cx="400" cy="400" r="255" fill="#FFF6EE"/>
+<path d="M323 525V278h92c104 0 156 45 156 123 0 80-56 124-157 124h-91zm74-62h23c49 0 75-20 75-62 0-41-26-61-75-61h-23v123z" fill="#4B2E3D"/>
+<path d="M292 242c62-78 140-96 234-53-31 77-88 123-171 138-36-22-57-50-63-85z" fill="#7B8D67"/>
+<text x="400" y="730" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#4B2E3D">SCAFFOLD MARK • P + PETAL FORM</text>
+</svg>

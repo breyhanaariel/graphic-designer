@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs>
+<pattern id="p" width="240" height="240" patternUnits="userSpaceOnUse">
+<rect width="240" height="240" fill="#FFF6EE"/>
+<circle cx="64" cy="66" r="38" fill="#F39A7C"/>
+<path d="M64 28c38 11 57 34 58 70-34 2-59-12-76-43 2-12 8-21 18-27z" fill="#7B8D67"/>
+<path d="M164 130c29 5 47 23 53 53-26 8-48 2-67-18-2-13 3-25 14-35z" fill="#DAB6C9"/>
+<circle cx="177" cy="192" r="10" fill="#4B2E3D"/>
+</pattern>
+</defs>
+<rect width="1200" height="800" fill="url(#p)"/>
+<rect y="744" width="1200" height="56" fill="#4B2E3D" opacity=".92"/>
+<text x="30" y="779" font-family="Arial,sans-serif" font-size="18" fill="#FFF6EE">CONCEPT PATTERN SCAFFOLD — replace with Brianna's original illustration</text>
+</svg>

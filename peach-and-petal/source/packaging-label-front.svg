@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1400" viewBox="0 0 900 1400">
+<rect width="900" height="1400" fill="#FFF6EE"/>
+<rect x="70" y="70" width="760" height="1260" rx="46" fill="#F7C9B8"/>
+<path d="M670 160c78 35 116 91 113 168-70-2-123-33-159-94 4-31 19-56 46-74z" fill="#7B8D67"/>
+<circle cx="174" cy="224" r="78" fill="#FFF6EE"/>
+<text x="174" y="246" text-anchor="middle" font-family="Georgia,serif" font-size="62" fill="#4B2E3D">P&amp;P</text>
+<text x="120" y="525" font-family="Georgia,serif" font-size="92" fill="#4B2E3D">peach</text>
+<text x="120" y="620" font-family="Georgia,serif" font-size="92" fill="#4B2E3D">&amp; petal</text>
+<line x1="120" y1="690" x2="780" y2="690" stroke="#4B2E3D" stroke-width="3"/>
+<text x="120" y="765" font-family="Arial,sans-serif" font-size="30" letter-spacing="4" fill="#4B2E3D">BOTANICAL BODY WASH</text>
+<text x="120" y="825" font-family="Arial,sans-serif" font-size="25" fill="#4B2E3D">peach leaf • oat milk • calendula</text>
+<text x="120" y="1140" font-family="Georgia,serif" font-size="46" fill="#4B2E3D">soft skin, sunny mood.</text>
+<text x="120" y="1210" font-family="Arial,sans-serif" font-size="25" fill="#4B2E3D">12 FL OZ / 355 ML</text>
+<text x="450" y="1365" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#A16B62">LABEL HIERARCHY SCAFFOLD • NOT FINAL PACKAGING ART</text>
+</svg>

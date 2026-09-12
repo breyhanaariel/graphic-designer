@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#FFF6EE"/>
+<g transform="translate(540 430)">
+<circle r="110" fill="#F39A7C">
+<animate attributeName="r" values="0;125;110" dur="1.5s" repeatCount="indefinite"/>
+</circle>
+<path d="M0-112c85 34 124 91 116 170C37 59-23 23-64-48c11-28 32-49 64-64z" fill="#7B8D67">
+<animateTransform attributeName="transform" type="rotate" values="-18;8;-18" dur="2.5s" repeatCount="indefinite"/>
+</path>
+</g>
+<text x="540" y="700" text-anchor="middle" font-family="Georgia,serif" font-size="94" fill="#4B2E3D">Peach &amp; Petal</text>
+<text x="540" y="760" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" letter-spacing="6" fill="#7B8D67">MOTION SCAFFOLD • REBUILD IN AFTER EFFECTS</text>
+</svg>
