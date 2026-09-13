@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 590" role="img" aria-labelledby="title desc">
+  <title id="title">Brianna Dickenson Graphic Design services and packages</title>
+  <desc id="desc">A feminine pastel services cover showing Logo Design, Social Media Package, Brand Identity Package, and Community Starter starting prices.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff2f7"/>
+      <stop offset="0.52" stop-color="#fff5ec"/>
+      <stop offset="1" stop-color="#f1ebff"/>
+    </linearGradient>
+    <linearGradient id="community" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe5ef"/><stop offset="1" stop-color="#f5ebff"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#714b5e" flood-opacity="0.12"/></filter>
+  </defs>
+  <rect width="1400" height="590" rx="44" fill="url(#bg)"/>
+  <circle cx="1265" cy="74" r="125" fill="#e7dbff" opacity="0.75"/>
+  <circle cx="100" cy="555" r="145" fill="#ffd8c4" opacity="0.62"/>
+  <text x="90" y="88" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#9b6680" letter-spacing="5">WORK WITH ME · SERVICES &amp; PACKAGES</text>
+  <text x="90" y="158" font-family="Georgia, serif" font-size="52" font-weight="700" fill="#4d3b47">Cute details. Clear visual communication. 🎀</text>
+  <text x="90" y="198" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#75636e">Logos · social packages · brand identities · campaign graphics · illustration · print</text>
+  <g filter="url(#shadow)"><rect x="90" y="255" width="285" height="228" rx="28" fill="#fffdfa" stroke="#ead9df"/><text x="118" y="308" font-family="Arial, Helvetica, sans-serif" font-size="32">✍️</text><text x="118" y="352" font-family="Georgia, serif" font-size="27" font-weight="700" fill="#4d3b47">Logo Design</text><text x="118" y="392" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#b85f86">from $150</text><text x="118" y="425" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">Primary concept</text><text x="118" y="447" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">color direction · exports</text></g>
+  <g filter="url(#shadow)"><rect x="397" y="240" width="285" height="243" rx="28" fill="#fffafc" stroke="#e8d6df"/><text x="425" y="295" font-family="Arial, Helvetica, sans-serif" font-size="32">📱</text><text x="425" y="339" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#4d3b47">Social Media Package</text><text x="425" y="379" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#b85f86">from $275</text><text x="425" y="412" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">6 branded graphics</text><text x="425" y="434" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">2 reusable templates</text></g>
+  <g filter="url(#shadow)"><rect x="704" y="255" width="285" height="228" rx="28" fill="#fbf8ff" stroke="#e2d7ef"/><text x="732" y="308" font-family="Arial, Helvetica, sans-serif" font-size="32">🎀</text><text x="732" y="352" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#4d3b47">Brand Identity</text><text x="732" y="392" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#9270b3">from $650</text><text x="732" y="425" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">Logo suite · typography</text><text x="732" y="447" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">color · basic brand guide</text></g>
+  <g filter="url(#shadow)"><rect x="1011" y="240" width="300" height="243" rx="28" fill="url(#community)" stroke="#ebcfdb"/><text x="1039" y="295" font-family="Arial, Helvetica, sans-serif" font-size="32">💗</text><text x="1039" y="339" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#6f485c">Community Starter</text><text x="1039" y="379" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#b85f86">$50</text><text x="1039" y="409" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#7d6470">Select woman-owned, Black-owned,</text><text x="1039" y="431" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#7d6470">or animal-centered</text><text x="1039" y="453" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#7d6470">small businesses</text></g>
+  <text x="90" y="535" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#9b6680">View services · compare packages · start a project →</text>
+</svg>
