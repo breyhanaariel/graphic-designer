@@ -14,7 +14,7 @@ I create expressive, cohesive visual systems across **brand identity, campaigns,
 
 💌 **Available For Freelance** [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Graphic%20Design%20Project%20Inquiry)
 
-🎨 **[View Live Portfolio](https://breyhanaariel.github.io/graphic-designer/)**
+🎨 **[View Portfolio Microsite](https://breyhanaariel.github.io/graphic-designer/)**
 
 I take on focused short-term graphic design work including logos and redesigns, brand identities, mascots, illustration, social media packages, campaign creative, presentations, print, packaging, and basic motion design.
 
@@ -130,7 +130,7 @@ Portfolio work is planned around practical handoff: organized source files, scal
 
 My portfolio is intentionally separated by specialty so each discipline can tell a focused story while still showing how my design and development skills connect.
 
-- 🎀 [UI/UX Designer](https://github.com/breyhanaariel/ui-ux-designer) — product design, research, flows, design systems, prototyping, and developer handoff
-- 💻 [Front-End Developer](https://github.com/breyhanaariel/front-end-developer) — React, Next.js, TypeScript, APIs, state management, testing, accessibility, and measured performance
-- 🌐 [Web Designer](https://github.com/breyhanaariel/web-designer) — responsive websites, redesigns, e-commerce, SEO/accessibility fundamentals, and business-focused client work
+- 🎀 [UI/UX Designer](https://breyhanaariel.github.io/ui-ux-designer/) — product design, research, flows, design systems, prototyping, and developer handoff
+- 💻 [Front-End Developer](https://breyhanaariel.github.io/front-end-developer/) — React, Next.js, TypeScript, APIs, state management, testing, accessibility, and measured performance
+- 🌐 [Web Designer](https://breyhanaariel.github.io/web-designer/) — responsive websites, redesigns, e-commerce, SEO/accessibility fundamentals, and business-focused client work
 - 🎨 **Graphic Designer** — brand identity, campaigns, visual communication, illustration, print, presentations, and motion
