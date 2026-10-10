@@ -1,6 +1,6 @@
 # 🎀 Brianna Dickenson 🎀
 
-## **Graphic Designer | Brand Identity · Campaign Design · Visual Communication**
+## Graphic Designer · Brand Identity · Marketing Design
 
 I create expressive, cohesive visual systems across **brand identity, campaigns, social, illustration, print, presentations, packaging, and motion**—balancing distinctive art direction with practical production needs.
 
@@ -8,25 +8,19 @@ I create expressive, cohesive visual systems across **brand identity, campaigns,
 
 ---
 
-## 💌 Work With Me
+## 💌 Hire Me
 
-💻 **Seeking Full Time Remote Position**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b)
+🕓 **Seeking Full-Time Remote Position** · 💌 **Available for Freelance**
 
-💌 **Available For Freelance** [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Graphic%20Design%20Project%20Inquiry)
+🌐 **[View Live Portfolio](https://breyhanaariel.github.io/graphic-designer/)** · 💌 **[Hire Me / Project Inquiry](https://breyhanaariel.github.io/graphic-designer/#contact)**
 
-🎨 **[View Portfolio Microsite](https://breyhanaariel.github.io/graphic-designer/)**
+💼 [LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email](mailto:breyhanadickenson@gmail.com?subject=Graphic%20Designer%20Inquiry)
 
 I take on focused short-term graphic design work including logos and redesigns, brand identities, mascots, illustration, social media packages, campaign creative, presentations, print, packaging, and basic motion design.
 
-[![Graphic Design Services & Packages](./site/assets/services-packages-cover.svg)](https://breyhanaariel.github.io/graphic-designer/services.html)
-
-🌷 **[View Services, Packages & Project Inquiry →](https://breyhanaariel.github.io/graphic-designer/services.html)**  
-💌 **[Send a Project Inquiry →](https://breyhanaariel.github.io/graphic-designer/services.html#inquiry)**  
-Prefer email? [breyhanadickenson@gmail.com](mailto:breyhanadickenson@gmail.com?subject=Graphic%20Design%20Project%20Inquiry)
-
 ---
 
-## 🧠 Core Stack
+## 🧠 Skills & Technologies
 
 **Brand & Identity:** Logo design · logo redesign · identity systems · art direction · color systems · typography · brand guidelines  
 **Campaign & Marketing:** Campaign concepts · social media · paid media · launch creative · email graphics · OOH · marketing collateral  
@@ -87,15 +81,13 @@ Prefer email? [breyhanadickenson@gmail.com](mailto:breyhanadickenson@gmail.com?s
 </tr>
 </table>
 
----
-
-## 🎨 Design Gallery
+### Design Gallery
 
 The case studies show larger visual systems. The **Design Gallery** gives clients a faster way to browse focused standalone work for individual freelance needs.
 
 [![Design Gallery](./site/assets/design-gallery-cover.svg)](https://breyhanaariel.github.io/graphic-designer/#gallery)
 
-✨ **Logo Design** · 🐰 **Mascot Design** · 🎀 **Brand Identity** · 🖍️ **Illustration** · 🖨️ **Print Design**
+✨ **Logo Design** · ✨ **Logo Redesign** · 🐰 **Mascot Design** · 🐰 **Mascot Redesign** · 🎀 **Brand Identity** · 🖍️ **Illustration** · 🖨️ **Print Design** · 📱 **Social Media**
 
 The gallery uses one category dropdown and a simple image grid. Select any piece to view its client or clearly labeled concept-client context, description, tools, deliverables, and service inquiry option.
 
@@ -103,7 +95,9 @@ The gallery uses one category dropdown and a simple image grid. Select any piece
 
 ---
 
-## ✨ Design & Production Quality
+## ✅ Quality & Evidence
+
+### Design & Production Quality
 
 | Project | Visual-System Evidence | Production / Format Evidence | Motion / Digital Evidence |
 | --- | --- | --- | --- |
@@ -126,11 +120,21 @@ Portfolio work is planned around practical handoff: organized source files, scal
 
 ---
 
-## 🌸 Explore My Work
+## 🛠 Repository & Documentation
 
-My portfolio is intentionally separated by specialty so each discipline can tell a focused story while still showing how my design and development skills connect.
+Explore the project-specific folders and case studies linked in **Featured Work** for detailed design decisions, implementation notes, assets, and project status.
 
-- 🎀 [UI/UX Designer](https://breyhanaariel.github.io/ui-ux-designer/) — product design, research, flows, design systems, prototyping, and developer handoff
-- 💻 [Front-End Developer](https://breyhanaariel.github.io/front-end-developer/) — React, Next.js, TypeScript, APIs, state management, testing, accessibility, and measured performance
-- 🌐 [Web Designer](https://breyhanaariel.github.io/web-designer/) — responsive websites, redesigns, e-commerce, SEO/accessibility fundamentals, and business-focused client work
-- 🎨 **Graphic Designer** — brand identity, campaigns, visual communication, illustration, print, presentations, and motion
+The portfolio microsite lives in [`site/`](./site/).
+
+---
+
+## 🌸 Portfolio Family
+
+My portfolios are organized by specialty. Explore the live microsites below:
+
+- 💻 [Front-End Developer](https://breyhanaariel.github.io/front-end-developer/)
+- 🎀 [UI/UX Designer](https://breyhanaariel.github.io/ui-ux-designer/)
+- 🌐 [Web Designer](https://breyhanaariel.github.io/web-designer/)
+- 🎨 **Graphic Designer (current portfolio)**
+- 📱 [Mobile Application Developer](https://breyhanaariel.github.io/mobile-app-developer/)
+- 🤖 [AI Automation Specialist](https://breyhanaariel.github.io/ai-automation-specialist/)
