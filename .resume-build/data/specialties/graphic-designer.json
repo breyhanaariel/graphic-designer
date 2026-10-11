@@ -1,0 +1,20 @@
+{
+  "title": "Graphic Designer",
+  "accent": "#C87783",
+  "summary": "Graphic designer developing brand identity, visual communication, marketing graphics and cohesive creative concepts across digital and print.",
+  "skills": "Brand identity · Typography · Layout · Art direction · Illustration · Social graphics · Print design · Illustrator · Photoshop · InDesign",
+  "experience": [
+    "Created branding and marketing graphics for business websites.",
+    "Supported visual communication and website brand consistency."
+  ],
+  "projects": [
+    {
+      "name": "Peach & Petal — Independent Brand Identity Concept",
+      "details": "Explored botanical body-care branding, packaging direction, retail graphics and social launch assets; final artwork remains under revision."
+    },
+    {
+      "name": "RibbonHQ — Independent B2B Communications Concept",
+      "details": "Developed presentation, reporting and marketing-graphics directions with consistent typography and reusable visual systems."
+    }
+  ]
+}
